@@ -228,8 +228,6 @@ body {
 }
 
 
-
-
 .l-chats {
     background-color: #fff;
     margin: 5px;
@@ -450,3 +448,6 @@ input[type="radio"]:checked {
 
 }
 
+.topic label{
+    display: none;
+}
