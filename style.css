@@ -326,7 +326,7 @@ input[type="radio"]:checked {
 
 }
 
-.input-chat-btn button {
+.input-chat-btn a {
     width: 35px;
     height: 35px;
     background-color: hsl(271, 36%, 24%);
@@ -336,8 +336,8 @@ input[type="radio"]:checked {
     top: 5px;
 }
 
-.input-chat-btn button img {
-    width: 50%;
+.input-chat-btn a img {
+    width: 58%;
     filter: invert(100);
 }
 
